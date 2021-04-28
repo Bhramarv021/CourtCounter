@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="first_team_name">Team A</string>
+    <string name="second_team_name">Team B</string>
+    <string name="first_team_score">0</string>
+    <string name="second_team_score">0</string>
+    <string name="add_three_points_for_first_team">+3 Points</string>
+    <string name="add_two_points_for_first_team">+2 Points</string>
+    <string name="free_throw_for_first_team">Free Throw</string>
+    <string name="add_three_points_for_second_team">+3 Points</string>
+    <string name="add_two_points_for_second_team">+2 Points</string>
+    <string name="free_throw_for_second_team">Free Throw</string>
+    <string name="reset_button">reset</string>
+</resources>
